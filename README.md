@@ -388,4 +388,4 @@ This project is for educational and research purposes. Please ensure compliance 
 
 ---
 
-**⚠️ Medical Disclaimer**: This tool is not intended for clinical diagnosis and should be used only for research and educational purposes. Always consult with qualified medical professionals for any health-related decisions.
+**⚠️ Medical Disclaimer**: This tool is not intended for clinical diagnosis and should be used only for research and educational purposes. Always consult with qualified medical professionals for any health-related decisions thanks.
